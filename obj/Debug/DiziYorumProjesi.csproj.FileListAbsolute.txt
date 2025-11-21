@@ -1,0 +1,12 @@
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\bin\BlogDiziProjesi.dll.config
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\bin\BlogDiziProjesi.dll
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\bin\BlogDiziProjesi.pdb
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\bin\EntityFramework.dll
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\bin\EntityFramework.SqlServer.dll
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\bin\EntityFramework.xml
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\bin\EntityFramework.SqlServer.xml
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\obj\Debug\DiziYorumProjesi.csproj.AssemblyReference.cache
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\obj\Debug\DiziYorumProjesi.csproj.CoreCompileInputs.cache
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\obj\Debug\DiziYoru.EC63D8C5.Up2Date
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\obj\Debug\BlogDiziProjesi.dll
+C:\Projects\BlogDiziProjesi\BlogDiziProjesi\obj\Debug\BlogDiziProjesi.pdb
